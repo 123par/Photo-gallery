@@ -18,7 +18,7 @@ style.css: Includes the styles for the layout, animations, and hover effects.
 How to Run:
 
 Clone the repository.
-Open index.html in your preferred browser to view the photo gallery.
+Open https://github.com/123par/Photo-gallery/blob/main/index.html in your preferred browser to view the photo gallery.
 Future Enhancements:
 Add more categories or allow users to upload their own images.
 Integrate a slideshow feature for viewing the images.
